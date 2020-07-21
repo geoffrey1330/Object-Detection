@@ -1,0 +1,2 @@
+numpy
+OpenCV==4.0.1.24
